@@ -1,4 +1,4 @@
-![Screenshot From 2025-04-05 20-54-35](https://github.com/user-attachments/assets/fb3c2d20-8b6d-472d-83c7-be2982e27ebc)# Neural Network Implementation in JavaScript with stdlib
+# Neural Network Implementation in JavaScript with stdlib
 
 ## Description
 - This project is an implementation of a neural network in JavaScript using the StdLib library. 
