@@ -1,7 +1,7 @@
 # Neural Network Implementation in JavaScript with stdlib
 
 ## Description
-- This project is an implementation of a neural network in JavaScript using the StdLib library. 
+- This project is an implementation of a neural network in JavaScript using the [stdlib](https://github.com/stdlib-js/stdlib) library. 
 
 - [Wine-quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) dataset was used for demonstation.
 
